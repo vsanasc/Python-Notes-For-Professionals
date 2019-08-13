@@ -9,6 +9,7 @@ P: 4
 
 from __future__ import print_function
 
+# ----------------------------------------------------------------------------
 
 # SECTION 1.2: CREATING VARIABLES AND ASSIGNING VALUES
 
